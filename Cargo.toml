@@ -1,6 +1,6 @@
 [package]
 name = "liquid-dsp-bindings"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Jacob Holtom <jacob@holtom.me>"]
 edition = "2018"
 description = "These are the high-level Rust bindings for liquid-dsp (liquidsdr.org)"
